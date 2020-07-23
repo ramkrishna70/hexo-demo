@@ -10,7 +10,7 @@ Deploy your own Hexo project with Vercel.
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/vercel/vercel/tree/master/examples/hexo)
 
-_Live Example: https://hexo.now-examples.now.sh_
+_Live Example: https://ram-krishna-hexo-demo.vercel.app/
 
 ### How We Created This Example
 
